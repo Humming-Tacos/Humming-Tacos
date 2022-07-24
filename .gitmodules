@@ -4,3 +4,6 @@
 [submodule "XTranscribe"]
 	path = XTranscribe
 	url = https://github.com/Humming-Tacos/XTranscribe.git
+[submodule "XGeneration"]
+	path = XGeneration
+	url = https://github.com/Humming-Tacos/XGeneration.git
