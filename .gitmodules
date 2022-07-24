@@ -1,0 +1,6 @@
+[submodule "XSynthesis"]
+	path = XSynthesis
+	url = https://github.com/Humming-Tacos/XSynthesis.git
+[submodule "XTranscribe"]
+	path = XTranscribe
+	url = https://github.com/Humming-Tacos/XTranscribe.git
